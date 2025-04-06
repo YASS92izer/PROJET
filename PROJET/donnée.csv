@@ -1,0 +1,2 @@
+PatientID,Sexe,Age,GlobulesRouges,Hemoglobine,GlobulesBlancs,Plaquettes,GlycemieAJjeun,CholesterolTotal,HDL,LDL,Triglycerides,ASAT,ALAT,GammaGT,Bilirubine,Creatinine,Uree,Sodium,Potassium,Chlore,CRP,TSH,Fer,Ferritine
+b3c9ab21,m,20,0,0,0,0,00,0,0,0,0,10,0,0,1,0,3,0,0,0,4,0,47,7
