@@ -35,7 +35,7 @@ Cette application a été conçue pour aider les patients à mieux suivre et com
 
 1. Cloner le dépôt (ou télécharger le code source)
 
-git clone https://github.com/votre-username/medilabpro.git
+git clone https://github.com/YASS92izer/PROJET
 cd medilabpro
 
 2. Créer et activer un environnement virtuel
