@@ -1,0 +1,8 @@
+customtkinter
+pandas
+numpy
+matplotlib
+seaborn
+python-dotenv
+dotenv
+reportlab
